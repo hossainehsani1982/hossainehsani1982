@@ -1,10 +1,10 @@
 ### Hi
 
-#I am a full-stack android application developer, web API and SQL Server 
-#enthusiast, Python aficionado, and junior machine learning enthusiast.
+I am a full-stack android application developer, web API and SQL Server 
+enthusiast, Python aficionado, and junior machine learning enthusiast.
 
-\- 🔭 I’m currently working on an android media player with lots of cool features
-\- 🌱 I’m currently learning Data analysis and machine learning principals 
+- 🔭 I’m currently working on an android media player with lots of cool features
+- 🌱 I’m currently learning Data analysis and machine learning principals 
 <!--
 **hossainehsani1982/hossainehsani1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
