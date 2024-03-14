@@ -34,6 +34,18 @@
 [![IBM Watson](https://img.shields.io/badge/-IBM%20Watson-3C87B7?style=flat-square&logo=ibm&logoColor=white)](link_to_your_profile) 
 
 
+## **Tools I regularly work with:**
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)](link_to_your_profile) 
+[![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)](link_to_your_profile) 
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](link_to_your_profile) 
+[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](link_to_your_profile) 
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](link_to_your_profile) 
+[![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](link_to_your_profile) 
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](link_to_your_profile) 
+[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](link_to_your_profile)
+[![Microsoft SQL Management Studio](https://img.shields.io/badge/-SQL%20Management%20Studio-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](link_to_your_profile)
+[![Azure Data Studio](https://img.shields.io/badge/-Azure%20Studio-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](link_to_your_profile)
+
 <!--
 **hossainehsani1982/hossainehsani1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
