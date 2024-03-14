@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data analysis and machine learning principals 
 
 
-**Languages and Technologies:**
+## Languages and Technologies:
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](link_to_your_profile) 
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)](link_to_your_profile) 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](link_to_your_profile) 
@@ -15,7 +15,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](link_to_your_profile)
 
 
-**Favorite Libraries:**
+## **Favorite Libraries:**
 [![Dagger Hilt](https://img.shields.io/badge/-Dagger%20Hilt-FF6F00?style=flat-square&logo=android&logoColor=white)](link_to_your_profile) 
 [![Coroutines](https://img.shields.io/badge/-Coroutines-2196F3?style=flat-square&logo=kotlin&logoColor=white)](link_to_your_profile) 
 [![Retrofit](https://img.shields.io/badge/-Retrofit-009688?style=flat-square&logo=retrofit&logoColor=white)](link_to_your_profile) 
@@ -25,7 +25,7 @@
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](link_to_your_profile)
 
 
-**Database and cloud hosting:**
+## **Database and cloud hosting:**
 [![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](link_to_your_profile) 
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](link_to_your_profile) 
 [![Realm](https://img.shields.io/badge/-Realm-39477F?style=flat-square&logo=realm&logoColor=white)](link_to_your_profile) 
