@@ -2,8 +2,7 @@
 
 ## I am a full-stack android application developer, web API, and SQL Server  enthusiast, Python aficionado, and junior machine learning enthusiast.
 
-- 🔭 I’m currently working on an android media player with lots of cool features
-- 🌱 I’m currently learning Data analysis and machine learning principals 
+ 
 
 
 ## Languages and Technologies:
