@@ -1,6 +1,6 @@
 # Hi there
 
-## I am a full-stack android application developer, web API, and SQL Server  enthusiast, Python aficionado, and junior machine learning enthusiast.
+## I am a full stack software developer, web API, and SQL Server  enthusiast, Python aficionado, and a machine learning enthusiast.
 
  
 
